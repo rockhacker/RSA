@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActiveProject</key>
+	<string>RSA</string>
+	<key>ActiveTarget</key>
+	<string>Echoes</string>
+	<key>DebugPaneActiveTab</key>
+	<integer>0</integer>
+	<key>DebuggerSplitter</key>
+	<real>250</real>
+	<key>DebuggerSplitterCollapsed</key>
+	<false/>
+	<key>ExplorerSplitter</key>
+	<real>250</real>
+	<key>FinalOutputFileXml_file:///Users/rocky/Downloads/RSA/RSA.elements_Debug</key>
+	<string>/Users/rocky/Library/Application Support/RemObjects Software/EBuild/Obj/RSA-EF63C35BC90D351D9BA2A07DB6246A5E0EE87FB2/Debug/FinalOutput.xml</string>
+	<key>FolderExpanded_RSA_file:///Users/rocky/Downloads/RSA/RSA.elements_file:///Users/rocky/Downloads/RSA/</key>
+	<true/>
+	<key>LastBuildStatusLabel</key>
+	<string>Last clean was successful</string>
+	<key>NavigationPaneActiveTab</key>
+	<integer>0</integer>
+	<key>SelectedNode</key>
+	<string>/Users/rocky/Downloads/RSA/RSA.sln---BuildLog</string>
+	<key>ViewMetaData</key>
+	<dict>
+		<key>/Users/rocky/Downloads/RSA/RSA.sln---BuildLog</key>
+		<dict>
+			<key>CursorX</key>
+			<integer>0</integer>
+			<key>CursorY</key>
+			<integer>0</integer>
+			<key>ScrollX</key>
+			<real>0.0</real>
+			<key>ScrollY</key>
+			<real>0.0</real>
+			<key>ScrolledToBottom</key>
+			<true/>
+			<key>SelectionCursorUndecided</key>
+			<true/>
+			<key>SelectionEndColumn</key>
+			<integer>0</integer>
+			<key>SelectionEndLine</key>
+			<integer>0</integer>
+			<key>SelectionIsLinear</key>
+			<true/>
+			<key>SelectionStartColumn</key>
+			<integer>0</integer>
+			<key>SelectionStartLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>file:///Users/rocky/Downloads/RSA/RSA.elements_file:///Users/rocky/Downloads/RSA/Program.pas</key>
+		<dict>
+			<key>CursorX</key>
+			<integer>30</integer>
+			<key>CursorY</key>
+			<integer>102</integer>
+			<key>ScrollX</key>
+			<real>0.0</real>
+			<key>ScrollY</key>
+			<real>1247</real>
+			<key>SelectionCursorUndecided</key>
+			<false/>
+			<key>SelectionEndColumn</key>
+			<integer>-1</integer>
+			<key>SelectionEndLine</key>
+			<integer>-1</integer>
+			<key>SelectionIsLinear</key>
+			<true/>
+			<key>SelectionStartColumn</key>
+			<integer>-1</integer>
+			<key>SelectionStartLine</key>
+			<integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Window_Height</key>
+	<real>817</real>
+	<key>Window_Width</key>
+	<real>983</real>
+	<key>Window_X</key>
+	<real>83</real>
+	<key>Window_Y</key>
+	<real>58</real>
+</dict>
+</plist>

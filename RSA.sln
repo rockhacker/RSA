@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Fire
+Project("{656346d9-4656-40da-a068-22d5425d4639}") = "RSA", "RSA.elements", "{66ce9972-b0cf-428a-88eb-4656bd1fc23e}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66ce9972-b0cf-428a-88eb-4656bd1fc23e}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{66ce9972-b0cf-428a-88eb-4656bd1fc23e}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{66ce9972-b0cf-428a-88eb-4656bd1fc23e}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{66ce9972-b0cf-428a-88eb-4656bd1fc23e}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
